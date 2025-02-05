@@ -24,7 +24,7 @@ Frequent travelers with valid passports are more likely to receive approvals.
 Follow-up interactions and engagement levels can influence application outcomes.
 
 ## 📊 Data & Methodology
-Dataset: USA visa application data with attributes like age, occupation, income, travel history, and visa status.
+Dataset: USA visa application data with attributes like age, occupation, income, travel history, and visa status.(Dataset link :- https://drive.google.com/file/d/1olSQQJKN6gilB-z0EaalFehAr68ZbjGP/view?usp=sharing)
 
 Tech Stack: Python, Pandas, Matplotlib, Seaborn.
 
@@ -39,4 +39,5 @@ Exploring the impact of policy changes on visa acceptance rates.
 
 
 🔗 Feel free to explore, contribute, or share insights!
+
 
